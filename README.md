@@ -1,2 +1,2 @@
 # springboot-dynamicDataSource-serbservice
-springboot整合多数据源动态切换、整合webservice
+基于springboot框架，使用注解实现多数据源动态切换，以及整合webservice，发布webservice接口
